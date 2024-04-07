@@ -1,9 +1,13 @@
 The ATMs in our cities are built on Python, as we have all seen them. It is a console-based application with five different classes. In order to use the system, the user must enter his or her user ID and pin when it starts. Once the details are entered successfully, ATM functionality is unlocked. As a result of the project, the following operations can be performed:
 
 -Transactions History
+
 -Withdraw
+
 -Deposit
+
 -Transfer
+
 -Quit
 
 -->The project aims to develop a console-based ATM application using Python, featuring five distinct classes to manage various functionalities. Users are required to input their user ID and PIN upon starting the application to gain access to ATM operations. Once authenticated successfully, users can leverage the system to execute a range of banking transactions seamlessly. The application's primary functionalities include accessing transaction history, withdrawing funds, depositing funds, transferring funds between accounts, and gracefully exiting the application.
